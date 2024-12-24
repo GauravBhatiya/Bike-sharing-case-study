@@ -1,4 +1,4 @@
-# Bike Sharing Analysis
+# Bike Sharing Analysis 🚴
 This project provides an in-depth analysis of bike-sharing data to understand user behavior, trip patterns, and operational metrics. The insights derived can help bike-sharing services optimize their operations, improve user experience, and make data-driven decisions.
 
 
